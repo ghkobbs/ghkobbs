@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Maxwell, a full-stack web developer based in Accra, Ghana. I enjoy creating clean and user-friendly websites using the latest trends and modern solutions.
+
 **Github Stats:**
 
 <p align="left">
