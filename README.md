@@ -3,12 +3,12 @@
 I am Maxwell, a full-stack web developer based in Accra, Ghana. I enjoy creating clean and user-friendly websites using the latest trends and modern solutions.
 
 **Github Stats:**
-
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ghkobbs&hide=stars&show_icons=true&theme=synthwave&line_height=40&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghkobbs&count_private=true&theme=synthwave&count_private=true">
 </p>
-
+-->
 <!--
 **ghkobbs/ghkobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
